@@ -1,0 +1,12 @@
+I can't aim very high because I was very tired to concentrate but I did my best I think so I could go for at least a 7..?
+things I did:
+created an account with a nice profile picture
+created a repository to play with and also a rep for my personal project
+	I managed to add some pictures to my personal project's readme
+	using this: ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+	I googled it so the credit is not entirely mine
+followed some people
+I asked to contribute in some repositories
+I did some pull requests also
+I repeatedly used cloning/pulling, staging, commiting and pushing
+
